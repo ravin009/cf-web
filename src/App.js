@@ -15,7 +15,7 @@ const App = () => (
     <Features />
     <Download />
     <PrivacyPolicy />
-    <ContactUs />  {/* Add ContactUs section */}
+    <ContactUs /> 
     <Footer />
   </>
 );
