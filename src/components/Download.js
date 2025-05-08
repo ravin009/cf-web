@@ -17,7 +17,7 @@ const Download = () => (
                 rel="noopener noreferrer"
                 aria-label="Download ChatFun APK"
             >
-                <i className="fas fa-android" /> Download APK
+                <i className="fas fa-android" /> Download APK v1.0.0
             </a>
         </div>
     </section>
