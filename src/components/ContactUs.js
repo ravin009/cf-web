@@ -151,10 +151,8 @@ const ContactUs = () => {
       )}
 
       <p style={{ marginTop: '2rem', textAlign: 'center', color: '#4b5563' }}>
-        Or email us directly at:{' '}
-        <a href="mailto:kingravin001@gmail.com" style={{ color: '#2563eb' }}>
-          Use message box
-        </a>
+        Or email us directly by message box.
+       
       </p>
     </section>
   );

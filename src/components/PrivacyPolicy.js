@@ -119,10 +119,7 @@ const PrivacyPolicy = () => (
         <strong>Contact Us</strong>
         <br />
         For any questions or concerns regarding privacy, security, or user conduct,
-        please contact us at:{' '}
-        <a href="kingravin001@gmail.com" style={{ color: '#2563eb' }}>
-          Contact Page
-        </a>
+        please contact us at: Contact section.
       </li>
       <li>
         <strong>Disclaimer</strong>
