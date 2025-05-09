@@ -10,7 +10,7 @@ const Download = () => (
         </p>
         <div className="download-buttons">
             <a
-                href="https://drive.google.com/file/d/1QZNCLDVxR3KebfBhtfKrgGRrLzBJTdGn/view?usp=drivesdk"
+                href="https://drive.usercontent.google.com/download?id=1QZNCLDVxR3KebfBhtfKrgGRrLzBJTdGn&export=download&authuser=0&confirm=t&uuid=c95e470b-d003-4bbe-a8a1-29eb4a80bf7a&at=ALoNOgm6xvB_x-TTSQHJagxxEiS2%3A1746813098720"
                 className="download-button"
                 download
                 target="_blank"
